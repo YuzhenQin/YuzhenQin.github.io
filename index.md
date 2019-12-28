@@ -9,5 +9,5 @@
 ## 下载  
 ## [goC自动评测系统/Codes](https://github.com/YuzhenQin/goC-automatic-evaluation-system/blob/master/goC.cpp)  
 ---
-## :)
+## :)  
 ## Thanks/感谢访问，再见！ 
