@@ -1,7 +1,7 @@
 # Scratch下载中心  
 ---  
-##    (0分考卷.sb2)[\files\dc\srv\scr\s2\]
-##    (emm.sb2)[\files\dc\srv\scr\s2\]
+##    (0分考卷.sb2)[\files\dc\srv\scr\s2\0分考卷.sb2]
+##    (emm.sb2)[\files\dc\srv\scr\s2\emm.sb2]
 ##    (o.sb2)[\files\dc\srv\scr\s2\]
 ##    (Scratch舞会.sb2)[\files\dc\srv\scr\s2\]
 ##    (不要被弹出去.sb2)[\files\dc\srv\scr\s2\]
