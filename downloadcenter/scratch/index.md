@@ -36,7 +36,7 @@
 ##    [第三次世界大战.sb2](\files\dc\srv\scr\s2\)
 ##    [见缝插针.sb2](\files\dc\srv\scr\s2\)
 ##    [警报.sb3](\files\dc\srv\scr\s3\)
-##    [贪吃蛇 [2].sb2]((\files\dc\srv\scr\s2\)
+##    [贪吃蛇 [2].sb2](\files\dc\srv\scr\s2\)
 ##    [贪吃蛇.sb2](\files\dc\srv\scr\s2\)
 ##    [跑酷.sb3](\files\dc\srv\scr\s3\)
 ##    [躲避绿球.sb2](\files\dc\srv\scr\s2\)
